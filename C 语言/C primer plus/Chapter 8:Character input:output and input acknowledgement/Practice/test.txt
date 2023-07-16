@@ -1,0 +1,22 @@
+                      
+
+
+
+
+Words are my teachers and friends, guiding me through time and space, allowing me to converse with past civilizations and explore the possibilities of the future. I am captivated by ancient literary works, embracing the wisdom and philosophies of the sages. Their words shimmer like sparkling stars, illuminating the path ahead, enabling me to navigate through darkness.
+Hello, world!\n
+Hello,\tworld!\n
+\x01\x02\x03\x04\x05\x06\x07\x08\x09\x0A\x0B\x0C\x0D\x0E\x0F\x10
+H 72 e 101 l 108 l 108 o 111 , 44   32 w 119 o 111 r 114
+l 108 d 100 ! 33 \ 92 n 110 \n 10
+H 72 e 101 l 108 l 108 o 111 , 44 \ 92 t 116 w 119 o 111
+r 114 l 108 d 100 ! 33 \ 92 n 110 \n 10
+\ 92 x 120 0 48 1 49 \ 92 x 120 0 48 2 50 \ 92 x 120
+0 48 3 51 \ 92 x 120 0 48 4 52 \ 92 x 120 0 48 5 53
+\ 92 x 120 0 48 6 54 \ 92 x 120 0 48 7 55 \ 92 x 120
+0 48 8 56 \ 92 x 120 0 48 9 57 \ 92 x 120 0 48 A 65
+\ 92 x 120 0 48 B 66 \ 92 x 120 0 48 C 67 \ 92 x 120
+0 48 D 68 \ 92 x 120 0 48 E 69 \ 92 x 120 0 48 F 70
+\ 92 x 120 1 49 0 48 \n 10
+
+:wq
